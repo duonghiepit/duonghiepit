@@ -82,6 +82,3 @@
 <a href="#" target="_blank">
   <img src="svg/duonghiepit-quotes.svg" width="846" height="150" alt="duonghiepit-official" />
 </a>
-
-# duonghiepit
-# duonghiepit
