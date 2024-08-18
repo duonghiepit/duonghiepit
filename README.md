@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dương Hiệp</h1>
 <h3 align="center">I have a strong interest in AI advancements and machine learning applications. Experience in Machine Learning, Deep Learning and Computer Vision. I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.</h3>
 
+<a href="https://samujjwaal.me/"><img src="images/duuonghiep.jpg" align="right" height="215" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duonghiepit&label=Profile%20views&color=0e75b6&style=flat" alt="duonghiepit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duonghiepit" alt="duonghiepit" /></a> </p>
