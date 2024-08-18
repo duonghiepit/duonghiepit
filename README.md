@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dương Hiệp</h1>
-<a href="https://samujjwaal.me/"><img src="images/duuonghiep.jpg" align="center" height="215" /></a>
+<div align="center">
+  <h1>Hi 👋, I'm Dương Hiệp</h1>
+  <a href="https://samujjwaal.me/">
+    <img src="images/duuonghiep.jpg" height="215" />
+  </a>
+</div>
 
 <h3 align="center">I have a strong interest in AI advancements and machine learning applications. Experience in Machine Learning, Deep Learning and Computer Vision. I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.</h3>
 
