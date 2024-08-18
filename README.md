@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dương Hiệp</h1>
-<h3 align="center">I have a strong interest in AI advancements and machine learning applications. Experience in Machine Learning, Deep Learning, Computer Vision and Web App Development. Desire to put the impressive ideas in Deep Learning/Computer Vision papers into practice by applying them to people-friendly platforms such as web apps, mobile apps,...</h3>
+<h3 align="center">I have a strong interest in AI advancements and machine learning applications. Experience in Machine Learning, Deep Learning, Computer Vision and Web App Development. I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duonghiepit&label=Profile%20views&color=0e75b6&style=flat" alt="duonghiepit" /> </p>
 
