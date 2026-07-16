@@ -5,11 +5,11 @@
   </a>
 </div>
 
-<h3 align="center">DevOps / Infrastructure Engineer — operating large-scale on-premise Kubernetes infrastructure for Vietnam's leading retail SaaS platform (100K+ merchants). Passionate about automation 🤖, Infrastructure as Code 🏗️, observability 📊, and open source :octocat:. I love to learn and contribute in any and every possible way.</h3>
+<h3 align="center">DevOps / Infrastructure Engineer at KiotViet — operating large-scale on-premise Kubernetes infrastructure for Vietnam's leading retail SaaS platform (100K+ merchants). Passionate about automation 🤖, Infrastructure as Code 🏗️, observability 📊, and open source :octocat:. I love to learn and contribute in any and every possible way.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=duonghiepit&label=Profile%20views&color=0e75b6&style=flat" alt="duonghiepit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duonghiepit" alt="duonghiepit" /></a> </p>
+<p align="center"><img src="svg/duonghiepit-quotes.svg" alt="duonghiepit quotes" /></p>
 
 - 🔧 I'm currently working on **CI/CD pipelines, Kubernetes platform & database reliability**
 
@@ -86,8 +86,8 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duonghiepit&show_icons=true&locale=en&layout=compact" alt="duonghiepit" /></p>
+<p><img align="left" src="https://hiepdt-devops-stats.vercel.app/api/top-langs?username=duonghiepit&show_icons=true&locale=en&layout=compact" alt="duonghiepit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duonghiepit&show_icons=true&locale=en" alt="duonghiepit" /></p>
+<p>&nbsp;<img align="center" src="https://hiepdt-devops-stats.vercel.app/api?username=duonghiepit&show_icons=true&locale=en" alt="duonghiepit" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=duonghiepit" alt="duonghiepit" /></p>
