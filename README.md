@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<h3 align="center">DevOps / Infrastructure Engineer at KiotViet — operating large-scale on-premise Kubernetes infrastructure for Vietnam's leading retail SaaS platform (100K+ merchants). Passionate about automation 🤖, Infrastructure as Code 🏗️, observability 📊, and open source :octocat:. I love to learn and contribute in any and every possible way.</h3>
+<h3 align="center">DevOps / Infrastructure Engineer — operating large-scale on-premise Kubernetes infrastructure for Vietnam's leading retail SaaS platform (100K+ merchants). Passionate about automation 🤖, Infrastructure as Code 🏗️, observability 📊, and open source :octocat:. I love to learn and contribute in any and every possible way.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=duonghiepit&label=Profile%20views&color=0e75b6&style=flat" alt="duonghiepit" /> </p>
 
